@@ -110,7 +110,7 @@ class PrimarySearchAppBar extends React.Component {
     searchText: '',
     amount: '15',
     apiUrl: 'https://pixabay.com/api',
-    apiKey: '11537596-99543c54406d160875149ac8d',
+    apiKey: 'Add your own api key',
     images: [],
     isLoading: false
   };
